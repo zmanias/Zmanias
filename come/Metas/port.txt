@@ -1,0 +1,1 @@
+tcp://Zmanias-27874.portmap.io:27874 => 8080
