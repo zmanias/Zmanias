@@ -27,7 +27,6 @@ samain aja sama LPORT backdoor dan exploit nya
 3. Exit
 4. Info exploit Backdoor
 5. Install Bahan
-6. 
 echo ''
 read -p "Pilih Jenis Backdoor ~> " menu
 if [ $menu = 1 ] || [ $menu = 01 ]
