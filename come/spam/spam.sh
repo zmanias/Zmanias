@@ -38,7 +38,7 @@ cd /data/data/com.termux/files/home/Zmanias/come/spam
 sh spm.sh
 fi
 
-if [ $menu =  ]
+if [ $menu = 0 ] || [ $menu = 00 ]
 then
 echo 'Logout...'
 sleep 2
