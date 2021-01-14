@@ -44,4 +44,5 @@ echo 'Logout...'
 sleep 2
 clear
 exit
+clear
 fi
