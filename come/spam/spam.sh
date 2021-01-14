@@ -17,7 +17,7 @@ echo '
 ==> [ 02 ] Jalankan Spam
 ==> [ 00 ] EXIT ' | lolcat
 echo ''
-raw_input 'Zmanias => 'menu
+raw_input 'Zmanias => ' menu
 
 if [ $menu = 1 ] || [ $menu = 01 ]
 then
