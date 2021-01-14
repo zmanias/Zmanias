@@ -42,6 +42,6 @@ if [ $menu = 0 ] || [ $menu = 00 ]
 then
 echo 'Logout...'
 sleep 2
-exit
 clear
+exit
 fi
