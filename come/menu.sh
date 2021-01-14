@@ -66,6 +66,10 @@ echo $blue" ║"$green" 09"$blue" ║️"$blue"║ "$white️"Buat Backdoor     
 echo $blue'  ════'" ╚══════════════════════════════════╝"
 echo ' '
 echo $blue'  ════'" ╔══════════════════════════════════╗"
+echo $blue" ║"$green" 10"$blue" ║️"$blue"║ "$white️"Ubah Tampilan Termux           ["$green"√"$white"]"
+echo $blue'  ════'" ╚══════════════════════════════════╝"
+echo ' '
+echo $blue'  ════'" ╔══════════════════════════════════╗"
 echo $blue" ║"$green" 99"$blue" ║️"$blue"║ "$red️"Keluar"$white"                         ["$green"√"$white"]"
 echo $blue'  ════'" ╚══════════════════════════════════╝"
 echo $white' '
@@ -139,6 +143,12 @@ if [ $menu = 9 ] || [ $menu = 09 ]
 then
 cd /data/data/com.termux/files/home/Zmanias/come/Metas
 sh run.sh
+fi
+
+if [ $menu = 10 ]
+then
+cd /data/data/com.termux/files/home/Zmanias/come
+sh termux.sh
 fi
 
 if [ $menu = 99 ] || [ $menu = 99 ]
