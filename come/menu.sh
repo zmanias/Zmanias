@@ -9,6 +9,7 @@ yellow='\033[33;1m'
 
 clear
 sleep 1
+termux-setup-storage
 echo $green
 read -p 'Masukan Nama Kamu : ' name
 clear
