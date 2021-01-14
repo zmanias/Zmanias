@@ -11,7 +11,7 @@ clear
 sleep 2
 figlet Spam Info | lolcat
 echo ''
-sleep 0,5
+sleep 1
 echo '
 ==> [ 01 ] Install bahan
 ==> [ 02 ] Jalankan Spam
