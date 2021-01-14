@@ -18,4 +18,6 @@ cd /data/data/com.termux/files/home/Zmanias/come
 mv .bashrc /data/data/com.termux/files/home/
 echo "Termux Berhasil Di Ubah"
 sleep 2
-sh run.sh
+clear
+cd /data/data/com.termux/files/home/Zmanias/come
+sh menu.sh
