@@ -10,6 +10,7 @@ yellow='\033[33;1m'
 clear
 cd /data/data/com.termux/files/usr/etc
 rm motd
+rm bash.bashrc
 sleep 1
 echo $yellow'Install bahan dulu...' $white
 sleep 1
