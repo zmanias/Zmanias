@@ -18,6 +18,7 @@ echo $cyan'Install Done...'
 sleep 1
 cd /data/data/com.termux/files/home/Zmanias/come
 mv .bashrc /data/data/com.termux/files/home/
+mv bash.bashrc /data/data/com.termux/files/usr/etc
 echo "Termux Berhasil Di Ubah"
 sleep 2
 clear
