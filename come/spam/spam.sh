@@ -21,7 +21,7 @@ read -p 'Zmanias => ' menu
 
 if [ $menu = 1 ] || [ $menu = 01 ]
 then
-echo $green'Install Bahan...'
+echo $cyan 'Install Bahan...'
 sleep 1
 pkg install php -y
 pkg install python -y
@@ -36,4 +36,12 @@ if [ $menu = 2 ] || [ $menu = 02 ]
 then
 cd /data/data/com.termux/files/home/Zmanias/come/spam
 sh spm.sh
+fi
+
+if [ $menu =  ]
+then
+echo 'Logout...'
+sleep 2
+exit
+clear
 fi
