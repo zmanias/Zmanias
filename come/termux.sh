@@ -8,6 +8,8 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 
 clear
+cd /data/data/com.termux/files/usr/etc
+rm motd
 sleep 1
 echo $yellow'Install bahan dulu...' $white
 sleep 1
