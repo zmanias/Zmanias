@@ -47,7 +47,7 @@ then
     fi
     if [ $pil = 2 ] || [ $pil = 02 ]
     then
-        xdg-open https://api.whatsapp.com/send?phone=6283821023375&text=Assalamualaikum%20Min%0ABoleh%20Minta%20User%20Dan%20Pw%20Nya?
+        xdg-open https://api.whatsapp.com/send/?phone=6283821023375&text=Assalamualaikum+kak,+boleh+minta+username+dan+password+tools+nya?&app_absent=0
         sh run.sh
     fi
     if [ $pil = 3 ] || [ $pil = 03 ]
