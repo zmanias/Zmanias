@@ -81,7 +81,7 @@ do
   echo ''
   echo    $white'        ╔═══════════╗'
   read -p '        ║ Username: ' user;
-  if [ $user = 'user' ];
+  if [ $user = 'Jabar' ];
   then
       clear
       echo $blue'     ✬'$yellow'   ✬'$red'   ✬'$blue'    ╔═══════╗   ✬'$yellow'   ✬'$red'   ✬'
