@@ -10,8 +10,8 @@ clear
 sleep 1
 echo $white"╔══════════════════════════════════╗"
 echo "║"$cyan"     Welcome To Tools Zmanias"$white"     ║"
-echo "║"$blue"Tools"$cyan" Version:"$white" 1.0"$green" New 2k20"$white"       ║"
-echo "║"$red"    ["$white" Isi Di Dalam 6 Tools"$red" ]"$white"      ║"
+echo "║"$blue"Tools"$cyan" Version:"$white" 1.1"$green" New 2k21"$white"       ║"
+echo "║"$red"    ["$white" Isi Di Dalam 13 Tools"$red" ]"$white"      ║"
 echo "║"$yellow"Username & Password Nya Yg Terbaru"$white"║"
 echo "║"$red"Jika Gak Tau"$white" ("$green" User & Pass Nya"$white" )  ║"
 echo "║"$blue"Bisa Langsung Download Dulu"$white" 👇👇👇║"
