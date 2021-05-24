@@ -42,7 +42,7 @@ then
     read -p "╚════════════════[+]PILIH: " pil
     if [ $pil = 1 ] || [ $pil = 01 ]
     then
-        xdg-open http://mestern.co.za/user.html
+        xdg-open http://tools-zmanias.6te.net/wkwk.html
         sh run.sh
     fi
     if [ $pil = 2 ] || [ $pil = 02 ]
