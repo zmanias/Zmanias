@@ -26,7 +26,7 @@ do
   echo ''
   echo    $white'             ╔═══════════╗'
   read -p '             ║ Password: ' user;
-  if [ $user = 'admin' ];
+  if [ $user = 'eXploit' ];
   then
       clear
       echo $blue'     ✬'$yellow'   ✬'$red'   ✬'$blue'    ╔═══════╗   ✬'$yellow'   ✬'$red'   ✬'
