@@ -127,7 +127,6 @@ fi
 
 if [ $menu = 6 ] || [ $menu = 06 ]
 then
-echo $red'Memindahkan metasploit...'
 sleep 4
 $white
 cd /data/data/com.termux/files/home/Zmanias/come/
