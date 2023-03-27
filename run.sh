@@ -44,7 +44,7 @@ then
     then
        	echo $white"["$green"√"$white"]"$white" Open Browser"
 	sleep 2
-	xdg-open https://sfile.mobi/p2igD9KHMO7
+	xdg-open http://fandirr.blogspot.com/2023/03/password.html
         sh run.sh
     fi
     if [ $pil = 2 ] || [ $pil = 02 ]
